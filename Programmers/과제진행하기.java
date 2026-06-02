@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-	public class Plan {
+	static class Plan {
 		private String name;
 		private int start;
 		private int playtime;
